@@ -1,0 +1,1 @@
+<?php class AdminsController extends Controller {			public function homepage()	{				$this->set('header', 'Homepage');	}	 }?>

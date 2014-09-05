@@ -1,0 +1,18 @@
+Administrator
+ -> Muziek toevoegen
+ -> Muziek aanpassen
+ -> Muziek verwijderen
+ -> Gebruikers beheren
+
+Gebruiker
+ -> Muziek kopen
+ -> Muziek downloaden
+ -> Persoonlijke gegevens aanpassen
+
+Gast
+ -> Inloggen
+ -> Registreren
+
+Iedereen
+ -> Muziek zien
+ -> Samples afluisteren

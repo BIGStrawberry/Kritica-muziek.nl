@@ -1,0 +1,46 @@
+Database Kritica-Muziek
+
+Gebruiker
+	Persoon
+	Track
+
+Artiest
+	Stijl
+	Persoon
+
+Persoon
+	naam
+	geboortedatum
+
+Sessie
+	locatie
+	tijdstip
+
+Samenwerking
+	Artiesten
+
+Project
+	periode
+	Samenwerking
+
+Album
+	uitgever
+	productnummer
+	titel
+	meerdere Tracks
+	1 of meerdere Samples
+
+Track
+	lengte
+	titel
+
+Samples
+	URL (mp3 of mp4)
+
+Critica
+	Album
+	Muzikant
+	Persoon
+
+Magazines
+	Critica
